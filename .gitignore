@@ -103,8 +103,6 @@ ENV/
 .DS_Store
 
 
-*/KTS/assets/
-*/KTS/output*
 *.pth
 *.json
 *.rar
